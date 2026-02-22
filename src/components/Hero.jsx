@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 
 export default function Hero({ goNext }) {
   return (
+    
     <section>
       
       <motion.h1
@@ -13,12 +14,22 @@ export default function Hero({ goNext }) {
         Melow
       </motion.h1>
 
+      <motion.h1
+        className="glow"
+        initial={{ opacity: 0, y: 30 }}
+        animate={{ opacity: 5, y: 0 }}
+        transition={{ duration: 0.8 }}
+      >
+        <span> — runtime: infinite</span>
+      </motion.h1>
+
       <motion.p
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 0.5 }}
       >
-        Developer • Engineering • Intelligent Systems
+         <span>Mind behind the machine</span> • Intelligence, engineered •
+        building systems, not noise
       </motion.p>
 
       <motion.button

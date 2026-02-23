@@ -1,6 +1,6 @@
 # ⚡ Vishwa Kaushal | Portfolio & Engineering Hub
 
-Welcome to my digital workspace. I am an **Electrical and Electronic Engineering (EEE)** student (Class of 2028) and a **Business Technician** at **Print Teach**, specializing in industrial inkjet systems and embedded technology.
+Welcome to my digital workspace. I am an **Electrical and Electronic Engineering (EEE)** student and a **Business Technician** at **Print Teach**, specializing in industrial inkjet systems and embedded technology.
 
 ---
 
